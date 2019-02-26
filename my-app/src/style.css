@@ -47,9 +47,9 @@ body {
   background-color: #dddddd;
 }
 
-.ui.four.column.centered.grid.container {
-  background-color: #eeeeee;
-}
+.middle {
+   background-color: #eeeeee;
+ }
 
 .mail.icon {
   color: #ffffff;
