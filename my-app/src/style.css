@@ -1,11 +1,12 @@
 @import url('https://fonts.googleapis.com/css?family=Proxima+Nova');
 
-.ui.fluid.borderless.topmenu.container.menu {
+.ui.fluid.borderless.topmenu.menu {
   font-family: 'Proxima Nova';
   box-shadow: none;
   border: none;
   width: 100%;
-  padding-bottom: 5px;
+  padding-bottom: 10px;
+  padding-top: 10px;
   margin: 0px;
 }
 
@@ -32,6 +33,12 @@ body {
   background-color: #dddddd;
 }
 
+.footer2 {
+  background-color: #dddddd;
+  font-size: 11px;
+  color: #999999;
+}
+
 .ui.three.column.grid.container {
   background-color: #dddddd;
 }
@@ -40,37 +47,28 @@ body {
   background-color: #dddddd;
 }
 
-.ui.circular.mail.icon.button {
-  background-color: #ccc;
-}
-
-.ui.circular.facebook.icon.button {
-  background-color: #ccc;
-}
-
-.ui.circular.instagram.icon.button {
-  background-color: #ccc;
-}
-
-.ui.circular.twitter.icon.button {
-  background-color: #ccc;
-}
-
 .ui.four.column.centered.grid.container {
   background-color: #eeeeee;
 }
 
 .mail.icon {
   color: #ffffff;
+  background-color: #ccc;
 }
 
 .facebook.f.icon {
   color: #ffffff;
+  background-color: #ccc;
 }
 
-.itemCopyright {
-  font-size: 11px;
-  color: #999999;
+.twitter.icon {
+  color: #ffffff;
+  background-color: #ccc;
+}
+
+.instagram.icon {
+  color: #ffffff;
+  background-color: #ccc;
 }
 
 #text1 {
@@ -78,20 +76,6 @@ body {
   font-size: 100%;
 }
 
-#text2 {
-  font-family: 'Proxima Nova';
-  font-size: 100%;
-}
-
-#text3 {
-  font-family: 'Proxima Nova';
-  font-size: 100%;
-}
-
-#text4 {
-  font-family: 'Proxima Nova';
-  font-size: 100%;
-}
 
 .ui.medium.image {
   border: 35px solid #ffffff;
